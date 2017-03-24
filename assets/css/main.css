@@ -161,11 +161,13 @@
 		margin: 0 0 1rem 0;
 		text-transform: uppercase;
 		letter-spacing: 0.2rem;
+		font-family: 'IM Fell English', serif;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
+			font-family: 'IM Fell English', serif;
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
